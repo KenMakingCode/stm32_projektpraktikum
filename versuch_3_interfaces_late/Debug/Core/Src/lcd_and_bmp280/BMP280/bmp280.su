@@ -1,0 +1,16 @@
+../Core/Src/lcd_and_bmp280/BMP280/bmp280.c:36:6:bmp280_init_default_params	16	static
+../Core/Src/lcd_and_bmp280/BMP280/bmp280.c:45:6:spi_select_chip	8	static
+../Core/Src/lcd_and_bmp280/BMP280/bmp280.c:52:6:spi_deselect_chip	8	static
+../Core/Src/lcd_and_bmp280/BMP280/bmp280.c:59:13:read_register16	32	static
+../Core/Src/lcd_and_bmp280/BMP280/bmp280.c:88:19:read_data	32	static
+../Core/Src/lcd_and_bmp280/BMP280/bmp280.c:107:12:write_register8	24	static
+../Core/Src/lcd_and_bmp280/BMP280/bmp280.c:123:13:read_calibration_data	16	static
+../Core/Src/lcd_and_bmp280/BMP280/bmp280.c:145:13:read_hum_calibration_data	24	static
+../Core/Src/lcd_and_bmp280/BMP280/bmp280.c:163:6:bmp280_init	24	static
+../Core/Src/lcd_and_bmp280/BMP280/bmp280.c:222:6:bmp280_force_measurement	24	static
+../Core/Src/lcd_and_bmp280/BMP280/bmp280.c:234:6:bmp280_is_measuring	24	static
+../Core/Src/lcd_and_bmp280/BMP280/bmp280.c:249:23:compensate_temperature	32	static
+../Core/Src/lcd_and_bmp280/BMP280/bmp280.c:268:24:compensate_pressure	336	static
+../Core/Src/lcd_and_bmp280/BMP280/bmp280.c:298:24:compensate_humidity	32	static
+../Core/Src/lcd_and_bmp280/BMP280/bmp280.c:317:6:bmp280_read_fixed	56	static
+../Core/Src/lcd_and_bmp280/BMP280/bmp280.c:351:6:bmp280_read_float	40	static

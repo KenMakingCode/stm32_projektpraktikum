@@ -1,0 +1,10 @@
+../Core/Src/lcd_and_bmp280/lcd/lcd.c:23:19:_LCD_SendInternal	5
+../Core/Src/lcd_and_bmp280/lcd/lcd.c:53:19:_LCD_SendCommand	1
+../Core/Src/lcd_and_bmp280/lcd/lcd.c:57:19:_LCD_SendData	1
+../Core/Src/lcd_and_bmp280/lcd/lcd.c:63:19:LCD_Print	3
+../Core/Src/lcd_and_bmp280/lcd/lcd.c:73:19:LCD_Test	4
+../Core/Src/lcd_and_bmp280/lcd/lcd.c:88:19:LCD_Begin	4
+../Core/Src/lcd_and_bmp280/lcd/lcd.c:110:19:LCD_SetCursor	4
+../Core/Src/lcd_and_bmp280/lcd/lcd.c:119:19:LCD_Printf	1
+../Core/Src/lcd_and_bmp280/lcd/lcd.c:128:19:LCD_Clear	1
+../Core/Src/lcd_and_bmp280/lcd/lcd.c:132:19:LCD_SetBacklight	1
